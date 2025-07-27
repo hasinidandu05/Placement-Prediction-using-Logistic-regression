@@ -5,7 +5,7 @@ This repository contains an end-to-end machine learning workflow using logistic 
 ## Dataset
 
 The dataset (`placement.csv`) contains the following features:
-- `cgpa`: Student's CGPA (float)
+- `cgpa`: Student's CGPA (float) 
 - `iq`: Student's IQ score (float)
 - `placement`: Placement outcome (binary; 1 for placed, 0 for not placed)
 
