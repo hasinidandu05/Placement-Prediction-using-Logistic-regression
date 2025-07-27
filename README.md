@@ -73,11 +73,3 @@ The workflow in the Jupyter notebook (`end_to_end_ml.ipynb`) includes:
 ├── placement.csv
 └── README.md
 ```
-
-## License
-
-This project is for educational purposes. See the repository for license details.
-
-## Acknowledgements
-
-Inspired by CampusX tutorials and educational content on machine learning and data science.
